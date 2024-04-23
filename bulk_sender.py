@@ -119,4 +119,4 @@ def main():
 if __name__ == '__main__':
     main()
     
-    # python script.py --rpc-url "https://mainnet.helius-rpc.com/?api-key=785d2698-60bd-45e2-a7f1-37f59e68cb08" --distro-wallet-pvkey "Distro_wallet_Private_key" --token-address "7JhmUcZrrfhyt5nTSu3AfsrUq2L9992a7AhwdSDxdoL2" --amount 10 --droplist-file droplist.txt --mode fast
+    # python script.py --rpc-url "RPC_URL" --distro-wallet-pvkey "Distro_wallet_Private_key" --token-address "7JhmUcZrrfhyt5nTSu3AfsrUq2L9992a7AhwdSDxdoL2" --amount 10 --droplist-file droplist.txt --mode fast
